@@ -5,5 +5,9 @@
 - [griglia](https://getbootstrap.com/docs/4.6/layout/grid/)
 
 
+## TODO:
+
+- [ ] **t1 colonne 1/3 - 2/3**
+- [ ] t2 mettere menù di navigazione
 
 
